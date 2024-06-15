@@ -1,5 +1,8 @@
 # GameCo Marketing Strategy
 
+## Visualizations
+[GameCo PowerPoint Presentation](https://github.com/fa-andersen/GameCo/blob/main/04%20Sent%20to%20client/Rev_Task%201_10%20Final%20Project%20-%20GameCo%202017%20Analysis.pdf)
+
 Welcome to the GameCo Marketing Strategy project repository! Here, I delved into the world of global video game sales, aiming to provide GameCo with valuable insights for informed decision-making in game development and marketing.
 
 ## Objective
@@ -32,7 +35,3 @@ Drawing from my analysis, I offered strategic recommendations to GameCo's Market
 ● Excel: for cleaning, summarizing, exploratory data analysis, and creating visualizations
 
 ● PowerPoint: for presenting the analysis, findings, and suggestions
-
-
-## Additional resources and links
-[GameCo PowerPoint Presentation](https://github.com/fa-andersen/GameCo/blob/main/04%20Sent%20to%20client/Rev_Task%201_10%20Final%20Project%20-%20GameCo%202017%20Analysis.pdf)
