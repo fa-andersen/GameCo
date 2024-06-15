@@ -1,6 +1,6 @@
 # GameCo Marketing Strategy
 
-## Visualizations
+## Visualizations & Presentation
 [GameCo PowerPoint Presentation](https://github.com/fa-andersen/GameCo/blob/main/04%20Sent%20to%20client/Rev_Task%201_10%20Final%20Project%20-%20GameCo%202017%20Analysis.pdf)
 
 ## Introduction
